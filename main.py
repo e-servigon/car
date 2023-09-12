@@ -2,7 +2,7 @@ class Car:
 	def __init__(self, brand, model):
 		self.brand = brand
 		self.model = model
-		self.color = color
+		print("hola")
 		print ("auto nuevo creado")
 
 	def set_brand(self,brand):
